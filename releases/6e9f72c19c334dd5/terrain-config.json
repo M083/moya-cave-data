@@ -1,0 +1,6542 @@
+{
+    "configHash": "8e9706d3a5917e7640ccc63734d66f981dd514cfcfd481e706539f0c45958444",
+    "configuration": {
+        "formatVersion": 1,
+        "generatorVersion": "moya-cave-v1",
+        "coordinateConvention": "Unity XYZ, Y up, meters, vertices chunk-local",
+        "dailySeedPolicy": "JST-yyyyMMdd-xor1234567-multiply123-int32",
+        "origin": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "chunksX": 6,
+        "chunksY": 22,
+        "chunksZ": 6,
+        "resolution": 6,
+        "chunkPhysicalSize": 32.0,
+        "isoLevel": 0.5,
+        "maxDepth": -704.0,
+        "minLayerThickness": 100.0,
+        "maxLayerThickness": 300.0,
+        "chunks": [
+            {
+                "id": "0002063c132d43c9b9c164db44abbe6b",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "00c5bee196a54e4b879eca0153ed7273",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "0214a623a7064e0ca6d431978cdce73b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "025b710dde4b4d4686c816e80c7a7fe6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "0269aafba5a04a0eb079405398a8f6ea",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "029799fa6e964e0d9c4571aa4d1c48ac",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "02e8426fcd914261acb3d17d3a7e0a90",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "03808e0e97014bab90f22be8043f9e0c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "03c7bc7f147a48aead154af11b7284ec",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "03f97ba998114a2fae469929594c4bed",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "0484fe6ba7af410faa9715c804b0876f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "0489e487f0be42068e32fc1538f68a21",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "050e641b85584d749b1aac16611536a3",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "050fff3d8c1f49e59b9327ddacd17ec5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "05554b0a27fd452d9f2b836efc0567f1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "05649d0473584c84a4ddb2808e136604",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "058fddc1a5544cd186eb9c82512e224b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "0652a6f371344b21b7410926fb39d9fa",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "0716000d59214241b0b7084f25519786",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "07275c6ba27842e7b4ee2a4b9d18d028",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "075307cee95a43aebf12f2424b791fdc",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "077ee850d5e0440498580a0e9dd43a04",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "07b8dd297dc04ee791bd9013db8f80ab",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "0879d7b1a15d43b280a7ed157099f52b",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "09118df241264ec9ac9d9d25ed4e4a0a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "09c36be2cdf940c4819032a889c2bb12",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "0a10cf25eb834641ae17b634ccd3acdd",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "0a318bdc4fc84ed3a0e4a015efb8f5f1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "0a5f80b255ae4494abd3cbee6b3b9a18",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "0a7986131ec9471085aee39541e24f87",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "0a86c9a9995247249dbcd6ae32f61e17",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "0b17b27fd2f14b9fbb0e99a298476289",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "0b66c5cf0fe347cf8e97f7f17f17d944",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "0b932a97fbfd434cad30ad3e48e9054d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "0c9e1fe0ce3f4e18871c9eaea7dc9f3d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "0cad18c4112f4845a72b3a6ebca1a86c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "0da79dc2ffb14ddf8c6565b035ec7706",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "0e29caf1c49640c4aed564d51f2ef4e1",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "0e9274ab7555467cb4bf48541efeb439",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "0e9a1d86a7e04b3eb2e7f8d4abff60a7",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "0f04cb308c2648c39306f1e5a10e1cf9",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "0f2b49ab42e040dea3b47c5d8c507cd2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "0fed92d3e40c4017b18640abf7b316ad",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1038891f931645d5a7838c80f616b383",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "103a31e68f7b4dacbab0a93affad0316",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "108447afa2894a16813ba4de0a6f9a75",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "10bf9d95b55e4d3693f37c72e71f1fa2",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "10f56851020548de8a5292b295e5fcee",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "114aec43a0e74898a88292b8445b502a",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "11a36418b3e44f4a8cb346c41733461a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "11b12b5c57e845b096d337ce5d979466",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "11bebfed4b8343049fe1745b84aacf90",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "122338d0f0c44bceb13d066a29418bf5",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "1237c2b24c1447a08d71fa206688a779",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "1277697672f84f03a48847a46152b06f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "12902827760d4eb7b2cee0cc52deadf5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "12c925e3dcef4a328defb655aa88ed5d",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "13241254f22a4d88bff51eee216b889d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "136e942a40614e81b5f585a51e0b05de",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "13cf50a50f3742798c1a45943b623646",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "13e3e0f8ae2f4fc9ba663ae4d3eb0c7f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "15617e1a174e4bafb782ce938834f3fa",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "157e1e509a064c2c97c651a468900e81",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "15fd94d3b3a5424b9a100521e3690c88",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "1623cceecf254c1b874885a355a8b1f1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "164ff429b5ef4abd963fe8c783c550da",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "16afd0cfba744fc796bc1f1b8d10377d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "175fda79a559400d80c8dbd6ef2082db",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "177e550dfcb04d0589e0751950c30591",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "17d30d8c8bd94269a4a14d3fa7612893",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "1841d28ad1b04ae7a701e4da2ec41928",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "1870fa659f7b46f2a53ac8c96da113cf",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "18b3391e330c48838e5c14153107d2b6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "18ff59bfeffe4d46a5b22e4e67618e47",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "19b5b0e95671494594a678447f3e1bbd",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "19f0f002dcd04fe0ac57cb18fb6abfa8",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "1a07365a51804049b0c48621a28ccb83",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "1a5cb51a88404420a058649d71327382",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1b5fc38872064b119ac3fecbdad10a4a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "1b7ca62ac9564391830d627879d013c4",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "1bcbb3b1f421445c83782d7231fe0f85",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "1bf688d4314446eea1ad25cfd397874d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "1c074f635c6742149908cbd9d66fb139",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1c2f869c8d834de1979dec8d80411ab8",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "1cc129b5a16d415ebc6deccfffe44b4e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1cfc4798e35544ae824b43aacc10caea",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "1d1863d2ab2e4316914d4c60f16bf685",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "1d22e93681ab4e3fb150a90aaccc3b53",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "1dc1e2155ad24b6197d3b4a504580f99",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "1ded70f04ee74bf1915c51f3d5e5ddac",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "1e45e07e77e74154ad9e23f9b071cbc6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "1e5fa114642b490492ce2f108c0d8bee",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1e7446db8f3c4f7db59531115b919ec9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "1e75ffb8602a4366aa984ace181d21fd",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "1e927577c67045adb3c21e8da7e91006",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "1efe320123794437b6db3ea1b198796a",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "1f1b7fd38e3747a18928787a68b5265f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "1f9e865efbd148568e4acacd778fc95f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "1fbb5ba5fcfb476fa4786560e093d7fb",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "200e4accf0234f8aabbe72a8dbdbeaa5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2035fd89ffa54d78978b5aa4e2873c8d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "20413294a3b046e89388a90b515229c2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "21907e43ecb844f88d2c08cc5fc30e00",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "219824eb317048fa83ce9d3c5be23eda",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "21b183908c164f3884df7bb8c761b711",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "2209bf1ef2b94472b5e5c867ba91f347",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "2268b00c8c2f42f88179472fda5bd7c8",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "227d5527d02f4710ae34e5cff70cfaf5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "233a316c20f841b49a31ddb6267d9854",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "2348af4925d24e6cae7e91cab722a68d",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "23587ee4599c44fa86b8101e51430a23",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "242aecf5751547fc9c235dcc27b88205",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "24c294e1450c40e7bd46b98e4f614178",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "24d055bb0e0f47d4a007d17cd1631920",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "251c51244295451d9e356da6f063ee14",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "25732d1326944c25a87a544a65cd9dc2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "25d4a75c1f424ba1aed865934ad2175f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "25fd88e6000249d4859f594da76e0ec4",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "262f281dcbd64dbfaac0782e7aed96ad",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "26f7d127c34148239e8dea565c41fbd0",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "27fad3829e664cedb6099b512a0dd1e5",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "28476c8fdc824ecd902c653c05d69d50",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "28509d076e50489c9d68b951dc37d139",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "28b9828d48094ffb913ce118ea8cbbfd",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "28bbb9df0466420eb02c608d1b0cedcb",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "28dab5e5542e44c5a8f0a397fad3bfd6",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2917a93f3e494581a2ca305ce3e3f705",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2a5c43a50cbf429d85425c02c00fabc2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "2a9605bf70554f959a80f345448b4aad",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "2c24d99de6f8428b85e3a39ae58b600e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2c87141a21f84bbe8bba22890d898989",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "2d2a1008a4204df3a1372bdc69a297a2",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2d96988380874481b3a1b8b9528a668d",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "2de2e589d23f4302a64fafb24f01bd6f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "2e343dbd704745e08833ab1b30d77a32",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "2ebebf6ba7164f13a40791829a849c01",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "2ed0501c25f74a7ebc7e05d1a9f59436",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "2eede77d3229456589c9130b882d6555",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2f464d6b05954a5ab13a7954d6f67ca0",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "2f85c58698a54ba3b61ea550d7538535",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "2fb50a4eec71415aa99661808e31fe12",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "2fdfc1bbeb6c4035921f67028d00a0da",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2ff17fea90a6455382f0afad9f5072df",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "2ffb3157d79f4674a1765c1f2d10d076",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "30eadf98f9404f08a153f5923a7a791a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "310ddfb983c346f2a5b8f982dfdcfb67",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "311d8b9bf67e45fe8fc683d29b59bf6c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "3359fc547b50416f906cca53cd8946e4",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "345f55986c1d47d49843aa858f0f894c",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "346c82a4c9c647e5b9c37f64396fd788",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "349121bd115b4fd3878bef74fbc66a70",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "349b9455b4714174b5d020afe92e6750",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "34c0963eb6b94dda9101de96d0f3a12e",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "34df2a595ff14ed5abf01238fd531f8a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "353944bf6b324e208f13343fed95add2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "36ed8cefb5ef424b8d8181c05ccc6b65",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "36f3345f180e4f6491aca6daee2bf95d",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "37722c9608ec40fc92c4890d341f7454",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "377ec1cd993c451fb9c8c412f476b4dc",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "37fa171e87f748408b8fc18c3f582375",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "384a201d2d8546deb4e002ee9abf0588",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "3898a7ef16e343c18e2810e44d8dbfbd",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "38cc1d3168fa4c5c9140bea15c074739",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "391c9b79d8ba4d35852f2b6f36067867",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "395a4426c07f4435a08ae28164d0e3df",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "399027f484ad482f93815a17caf7a2b2",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "39ccbba52da549d4b18e7114c1c0fe07",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "3a4d68ddabe14e2fb50d762e3ff6ed09",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "3a5740d513a2407982d36af9cbf4c3c7",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "3a68ae51ce834425832efc27a388013c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "3acb16a6fe0349d998a5d0dfad17fc7c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "3b20891466944ccc8cc92c6961ff98a0",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "3b318ab3db2a4cd8906ff174266c4d31",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "3bb363df181547b4aa939bb5e575c392",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "3bb965e31e9b45468c63d728878dac2a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "3bc22502f44143fea7c165d895a7c279",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "3bed5d06bf10415d8c2c23fc6efe8528",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "3c2e141494de48b6b9b6a108fa195b12",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "3c9f51ecfd7f4f63b8d3ff98d2f14d1b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "3d10830f7c364e53a6bafaa028cf8747",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "3deee997b49a42049adb00bbd9317c90",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "3e0e4bb4141f4886a15a22dcdbc051f2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "3fcccbc1e9e6403e8936466be75f55e6",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "4046bfdce8594878b799b9413aa5660a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "4122b55201f94bcfb7a96c49bc5e4b87",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "415f315036c34ab9a4acf588902167f0",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "41640b565c6e4f1f92496301fdf0e5c0",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "418efb1aa54647b691d4cd412c1b1acc",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "41b838f13e9e43cabea3db5ba366b647",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "41c112401ed04e8ab7b6b2c00a5b727e",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "41e031ebac9145bfb633f04cd00494ec",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "42645e422df44575a1b72bb01e620933",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "426f3bb3e5e4411d9922c709a6532a34",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "42bfd87f700c4a67b7a1683ccaab3a34",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "42d303fd3e2b4bc19cd8dac684d4fa2a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "42f0faced3254d149bd3665f2ec5f799",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "434e0dd0a84742d8a26002a8993b5916",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "43561b5b222d4e759f7b183e3c681f08",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "441e09e5cb024c23abb644ce574bdc1e",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "4451c986accf48f899fdb68a647b0b53",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "44927f9dd70446cfb16845fbfac27796",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "44bfc387b9d54382bf44b5364946b794",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "44cb907e88fd42b8917289591d881c66",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "44cbc05598a94d1f842cdfd737fa524a",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "451d594331d4419da6a26a66d2331b6b",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "46149d2016c841b88054b28228e99712",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "46d6dcd2ad1d476da471872f653a6c0e",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "471a9851e58d4da7b436644b86fe830a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "4737e751894645ff917ea77f09e666b3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "474e5f0b62094cbe851cf6072c9bf7c6",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "47cf1b98e9bb49248b729327ad1d4a1a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "47e342d9e8044b53b92ca1798250a87c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "47e75d6d909d450a9a342cb16b19985d",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "4805bbb53a6f49b1a9b7778cbb9f034f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "497704c7b8cd46c286ba22a8b72e2c07",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "497d3a47ac244f5db6202a3fcfc5a0ac",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "4a097ebdd27044259d511eb1f543638f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "4a7ea2e283a04e7b927db4f935eb5e04",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "4c14e9fa0ce4449eb5accece83465bb5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "4c881e45f68343a6b6c857ab17961d38",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "4c9b5933502541cda793d47aa0e00f13",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "4c9ed411648348f6bed7172d7dbb6ed4",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "4cfedb7bdd2d414fa8b8aa66ed21c4ae",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "4eb94faa5d0446efb89576f0d9b51c7d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "4ef3b7fae663453aa5f165c09b46408a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "50a94a8baf684336bf999de36949414d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "50c6ceaa4cc54d42a3893065c2082c48",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "51a14fa1b953433ba3ab1ca61051d8ac",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "520b9387165d44a3b18c08e876cfa6a4",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "530c27aa20ae4df687326440574692d4",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "532c251429bb4e3fb88a5fa2532f06a4",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "536175fe8f554cea954e6ee62e50d484",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5367f906f41e4c1bb5bfa29c830ec609",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5372945b69924baf8d28359928759f3a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "54093d3b3a234e269ed3ff21374d6e9e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5493e67b77974e09b45a82814e654a71",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "54dad1af48f54d7e93aae89c7aa3793e",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "55716bff93ae440bb250be861618b0c3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "559e839dd33848de922cd775bc6c0e1a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "56403be07ef44a188f18c2ac5ba330ae",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "569fc3a1229a436fa2c557fc192d4639",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "57857b1a944f40788c15f48d8e418411",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "5788f67abd9141a2b713009fbeafa5a0",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "57af7bdee6cb49ccb50c06449be0b609",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "57f5e510ba85430497df346178164e66",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5874f276c8594092acb3c9d467cd7a99",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "58967de4986a4c54896e76216632bba2",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "58eba813875649e3a1fd06d340123671",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "58fa606e1258450b914bddc5c0c58f20",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "59097514a3fd4ae4b9f41bc42787f037",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "590b2c3bcf8b491db0f1df3122bcd0de",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5910d209708d4d22b4f7ff7073f9e6a7",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "592b9fbb39794c2b91adffeec78e1ee4",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "599215fa417f42fa9cd6fee3e089785a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "5add359983204d75a5bd0971149c3c76",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5adfc38b999448ed96d9fc9100a9b4c1",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "5b4428aefe694f68acad139a0526bbaf",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5b6c95b9cc9c49f98456f51636c20df5",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5b782a81420246fa808a9e6d652499c1",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5b7e422d992545a3836f1b522b97833f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5bb18f55d1b64dff9eeed5a670f59380",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5bb36ff8a97b46258f3218ac34567adf",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5c1c86fe55bd4fb29c5ac5ef430b7ad8",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "5c230ccf59be4919bae9440ae0fa6540",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5c4cf62ad0df482184ff05fcf7a47db3",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5c54dee5665949a4bbeeb71acef8dcf4",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "5d0451ca87e54bc287070a9959dce10b",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5d0b6e7714ef444bbbd218fe4c9d3510",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5d254594a4c84160ae4d3685142e281b",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5d7166de56704f0584edb9f6657d7d38",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "5d7fad3bab134f92bf83d07c6304f0a6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "5d85706d46cd494888b785585c11346d",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5d99532cd79549baa5863200d5767ab1",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5dc9d163e55b40149374156c2ad1748e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "5df63fcf78e946d39c1049af7b7360b4",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5e1e85e4e6e645a081b0467a4c51103b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5e3f9b853e4b4fc89c5c0c6280000957",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "5e52a9a32d184cf6a9067db404fefe0e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "5f88f6f29a8c4743a7d066da505c3ab1",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "5fba31e6218847da8cab3391adcb051c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "60ab9212434e4c5eb6ac4d15291e2d83",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "60e02b7b1f8d475f8c2bc0e7aa1b23d7",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "611a9cc68b934a5c89812ce30bc3f074",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "61ab2fc002cc400a9aaaf26e33f64ba2",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "62291237c90d4a3da1701cbd4f5363d6",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "623be53444574c77a7d65c6692d8a618",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "62ed44b87ac64fc985bf3d851f401c2f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "62ede42fa52741f6b80fabf6a9d8eba3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "635c316f28df42d1a6ea7a83886a0f52",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "63af6278894a4f79b13da66257e00220",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "647dc5dfaa2048e189a6396962e73822",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "6562da6e0af344adbc35ce517c52d2ac",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "65c425e4a939481b9648a635631b7ab3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "66839fa54ccb47c68db21221cb05129d",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "671270225042430cac06de7577e3d6a6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "67597fe3a306412494f7146c45223f88",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "67a3e6c740054607b5c55633fce6a841",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "68307af8124e4c67b4309240cc7a02ba",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "68d9ceaa93b944ac8257125092c6a558",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "693e3b994708431994a432e42cfcb988",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "69a69a36197f46d2b3d43e3363f8bd87",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "69badb37515f4d95a848e444a949a162",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "6a0171edb537437f87584a586e79806f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "6a32f9b98099478bbdfa20c4b1665f49",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "6a52f5039b7d43caa836b6f63c9bbce0",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "6a842a09afa64bbb8fc00cd3817f3a11",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6aa2fe8241d340c2a8921c58ad164bbe",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "6aec1057ecf4444189d84548790627a7",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6bb1c366e0174272a24de0c44d9a2d80",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6c1c85ff928e48f2bd4a6278a3b76caf",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "6c31c8c668fb4b7aa0d6767ad0a05ff6",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "6c320b6b75204477b2291d046979cde7",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "6c3643d259c14c43bbf116dbdddc47f2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "6c41e442d932431bb3654984c42a2b41",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "6cb193842acf47c3abd57596fb8a3f33",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "6d3c27a633994591999243191c26bb50",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "6d5915afbcbf439096ac5f8bc699690c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "6da1673fb2e943d6abd12a75d98900d8",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6dcdbcf7f836406aa22e0f0dbc084ee1",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "6de02c15c8824f7287f93931b81b878a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "6e08ff5a2c854d5292eb6499cb327ec1",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "6e87dbefd300496aaac5c0e8957bc053",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "6efce231ee5a42b4ad4d4da830a84b85",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6f56ca3dceaf4a56a529e8f172b6088f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "6fa83f8cfd204500b5efff961d370aad",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "6fd4781148e04cc98fa43e9a2325a6f4",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "706c3c8c1c7d4e6eab8500d55e7c2965",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "711eb72e22ed49209668ad6d2aa3cf2c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "71505b3961624db2b22ecd36f1d5930b",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "71b722a2bb164920a2d130989e4e5a34",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "720f3b6626ab43ecba659bb0318bfd0b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "7252fa430b284a79a6c2dde9bb08e18e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "727036eb45144b48868dafd0c1ce665c",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "7270779a8efa484f8907367b208a5831",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "72c34f44903e4bdf89b79fa8919962a6",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "72fa5a6cdc564849be1cb2aef6091f81",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "7352d1c805e34a1fadf2fb4a8ba9681b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "736958f10b854023bd2129acac03ca5e",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "737589b9990c4835a3def55e06f8fc88",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "73f8cacc794f4a8591f7f955147e21da",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "73fdbaa807f14f43a6fdb49ca6709595",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "74651f7f0b984c2d8d7f65042d6104c5",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "74a3fbc0981c4837977b537ebb8e2bf7",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "74e22e277c10423d887573832e00b8b5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "750894e6e9a04be380ffa871274f1e37",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "756cd5425c394451aa7ae4a8d2743d95",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "75e307b0832e47a7a7c13c7fd519849e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "75f58b8c88f14629aaea68341f354f67",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "760ec792304547678b0c1a6034303faa",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "7636621f7e214a03a48cf9eddd40b3c1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "76a4bc8b750d4641b58d7a09c0cba8e6",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "76dc6a2cd42949968c9d61b2d74d0445",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "76fb4e72106242e4a337bf616bd565d3",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "780e42851ca54f3a998d74fa770362b1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "7878bf01ce2d42268c64f15dee924bf9",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "790cfd549e3e4b1b8bf716782106a1fa",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "791be24ec3f943b8b76edc59b299c394",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "793904810db947eb8e2d617c44f7b480",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "79b7c61bf597429ea240d5c47b4b6e19",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "7a034b719e5e4d16a36c713598bbfa9d",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "7a1b330c7aee46e79ecae77ade47c907",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "7a92571cd457407788d52ec4ee09127e",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "7ae3a1631df149d0b7c9d29070434f66",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "7b4db0b5eead4a6596f6406abad44b96",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "7bd0328f1ff9415faba8ff77aa803a94",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "7bd168b389d14cca8dca646287aa35d0",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "7c2751e90c6c4606bb361a808b8c4c07",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "7c44503a26744fac8910c79129308066",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "7c9d75ad13c344a7b4cce23fa1097253",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "7cc24e76447d4bae962e84cbf61a1505",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "7e0fa67caefb473cb820851608b7351f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "7e2f4958e3e64afdb23132b5ecb39854",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "7f3990a7b0714da699625c51bca89791",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "7fbe434651d44519a8d48b75eda6d009",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "7fdef4191a03415aa8ef636a964c121e",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "80353c6daab54c538342a3cf119bcfd5",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "80507fbaa1b043d48841938a5ff369e2",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "80a2f97da14442658c97030d3724bc7b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "810caf5b480b419993096a4753dd7411",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "813edfafa36447bca4a70c6c811473e5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "814a1474a83e42d9aeb19498d8fb0e91",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "8190996280fe4b0eba07ee72b63e24d4",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "81e1bb4c25ce4ccf9239170cca880587",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "8239ad87688e4ee284ad51cf635ba3b5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "82c3ce6d1f664d8b85ec1efe9bef89a8",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "830c9d9c8f2c4c009f8e0640f8bca819",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "832369fce4c747428cbcdb35ab8dd90f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "834aea2aa2cc4797a8923edb58e53252",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "83695e9e62dd404aa2222b23a4b8b02d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "838eb1a9b72e4f5088ec0a786fc8787f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "839034beb20f4dfa95d5207e2d725c0d",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "83c7d7546c8d434d92da7321b43ec1fd",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "83cd68f6abaa4572ad593f1d999519b4",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "83d79334465e435cb35104021e9523e5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "84383257142c49a7aaddaa56c8ee9866",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "8461ef25c5dc47d5b75ecd5bdd65b93e",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "846e93a58bfc4339b724acc7f0e513f3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "84d10305af59416d89162a43e45bd07b",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "84e175fa52184864b216d4ce8cfa50c4",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "85157b0e508a4db2bb8faa988ef34f12",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "862b1a9dc3a641be9670e23033a8c49c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "865030c89c4a4d2b8a413bdd889db5c5",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "866b90b5318442a485dad8dfe9465110",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "869004fa13f04175bb8f965776ad137a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "86a25cb5dbe74c969c8bec4c614803b0",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "86a4639e9f51463d9136105efcabc9fe",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "86ac95bc31b64be2a71a431fad1dda8d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "86c072d0e6344bb185393ae816d2ce4e",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "86f7887d25ad47f0babd49a7ce2a67d7",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "86fe9f5f810542df89abcfa3020bbd2a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "872b6a9fcd3b4a49be9eef70324112b9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "87a649964b6644cebf493ea8f387e3ff",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "883a73018da3410e9c0ec5add9a5b935",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "88ad139506fb49749fd6320995eb0dfd",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "88ec1315873041cfb7a05272604b1bb5",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "89a091fcb63e43ca91abb271351c9997",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "89ef12f7b35b4220ad479413bfd0c90b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8a7b3e08e6574c26820462b2b181f1dc",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8a878e6af182481faef8ac9be045946b",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "8a879858e5d84d36b2b94a6f0db2e7c3",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8acfde17fc7748fa993410b90e2ebebc",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "8af2b5d06db94801a3e7ce3287dbf0f5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "8affbfd49f2a4d4f8d7e5410f6ee8ff1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8b01ccaed4ef49bdb6da555c7cbf31ce",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8b27ba6266274687a7640066c050a9ff",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8b8cc970f02745da832bfb93fe0fe147",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8bd1663304ea44fb9ce9a11b7342e906",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "8c0f03690a91453299b145778b82823d",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8c11ffb371084fdc9539f47c8a7883a9",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8c9d5912b88d4c4eade49cfb6634c232",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8cbca86c4a2e4746bacc95898d96349f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8d2c5f7507934b7eb132206155f73987",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8da0d7c6117d4d76bf008f090c8c7d9d",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "8da643bfab4d41cc9449787f98dfed05",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "8e25ffbd6c374b1b878b7ee36f0ebab8",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "8e3ac2a2c1b44172a4fc437cffecb705",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "8e4e9c273a9849868205a905a8a5100a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "8fd0fdc5522c4465b3ea258e3de4c32c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "8fef8e9d802b443b8ca2e826426cc0b1",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "906be6fd37054b6788be2bfa09803947",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "915e82ab34104c1d925280bd06a895d2",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "918136fa8196401cafc39862f8c7d33f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "9194c26994f44cb2a1f627d5285697b5",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "91d74839a8d9431989c8ad8b0a030637",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "91ed6a6d00244c1d9506da062b042f32",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "91f7702237bd41668d729648edc92c91",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "928abbeafa0c418caf7a5572811b9408",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "92ab456681b74f59bbc50815eaf49db3",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "931c4dcfb9f9483286dc05835b150ea7",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "93b544f652d44bbabd95a6b70d1b56d3",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "969eed84ed914867a084d1e5071eb3c3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "96c59955d83945d9b28c1decb331c25c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "9740227c7e7041a4b758cb780863b6f3",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "976258c6a8e04a5daa0e228bc6b43b7c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "9782fb02dda24a64947777299ca9ecb3",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "97b2ed3d94ce440f886b40633c1dba2b",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "989fc951fffd4a48a971aaa7ce6d3ef1",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "98aaf56e10c344668a52329180e24919",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "99b892a9e10c4c95be4967d0c73ea474",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "99dc0708b8dc4432a72b3445f53a0877",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9a219cf8f7eb421981771b25b5fa6818",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "9aba86a1765f4c649decf2d8d1f6420c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "9adfb0ac2acd44a9855c9c801edff6fb",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "9b1371fbe91344d7ae39805d721869f5",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9b311c0a96194d058f909c507b2101ea",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9b312794188d4b398737879bb62860f8",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "9b4c6137406744f78b7500cdac82d5b8",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9b80136486464bbd99ead8eb4b9e2367",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9bcf6c446fbf4f7caf5aecf1c90ec05d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9bf6d50e65524bdbb7f41659cf2cabc3",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9c96d3324ead464c968059478e6c6df8",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "9cc7028a04ad47cb85a044986c5c1869",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "9d27d4d3dbdd4dde802d3484bf262b2a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "9d3c38d170974c9ca0a03e0dc52a215f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "9d87740cd65546b08a74a49375233137",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9dc61b0e523e4c4a9dc3ba32cfb52b45",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "9e0aefbeb6bf4a69950f47d2dc02f0af",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9e692f6d173a49e2a1b14199a22d9c91",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9e6be148bcb44918b417d3f77de47d2a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "9e90a73436fa43ccbec6cd5790cea893",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "9e9cfb12628e404bbb680a61d1b9fe33",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "9fbd8298805c4449bf8531d9908350a0",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "9fe70551afbc4922872cc016cf23ccf2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a006cc7a299643f489876cf4b70e8f7f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a0bfd1c45ef546d29ca56afc606d9f0f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "a0f261c2fb5c4d468e1f6612a71d0ee7",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a1578526517443afa397eb572a1cc569",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a17a7cea3fe74091928b1f9d33e52663",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "a1af3498d0c044a3a35364a4017feb1f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a1c47417ce2742c792ea380e9c901ad8",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "a1f6c6df275c464dadd581f452886211",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a264e58e2e1f4b3598d0831428261a61",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "a2d9faffe2e84c069ee6287356b13894",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "a2f8119456494795af6f05984d1dcfa2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "a31f1ef6d1e543a19fcaf2ec2fcf6ece",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a39b1df72d804a86a84716331ed57844",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a3ab24a29b6f422c877075ca4b1c208e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "a404e4e1fa394352b94d762e726c0bfa",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "a46e71eaf24d4f138082853cf7c38b49",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "a47615413e07420e97aee823272f726f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a4c2439bb8ea42b7a304877eca074f13",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a4d8837498464669a5494356784c0d2d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a57b98e7feb94a5c8fe82e2669224f4a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "a620abe8cdb545f9a6eda03352367f15",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a68ae7cc9270487284a5606e44a317fd",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "a7000c8f16db4a439e3db7fa0c496be8",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "a7400ba55ba24c0bb58b7dd90db8d1cc",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "a75413348d51472b8308a99c75f108c3",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "a7a61fd7b4844daeb1d8c2dfb952378f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "a8bd4388faf1416fbb288ece1c705734",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "a8c96c7b7a47401d9b682b0dadfa8a95",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "a94a64357625404fbbdf23ab7272cc59",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "a9e96c311ecd4fc89a6c14b5325dd6c4",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ab2d304f51d745a6b615b3909373e851",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ab677261cc6849ef8df09acabefc5d74",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "ab9f95dcdb94465b92795cb3b767dffc",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "abe32f833e2f42308438d70ef457bf3e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "acf2253b5e8f4030a82600ba3bd34816",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "adf8e54871f94d4e8ac40b88c427dbea",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "ae5a27dc3bc546d698ba7cd10cee0ec8",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "ae7ccafc47054741af600f9400d94cd2",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "aeb12084697b4faa989d893e6b765d59",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "aeb1fb1b7a9542dab8c6a72ef46381d8",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "aebee0154bbc4af98adb289a1613d90d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "af16de8caa3346b5950fe772156b1c6c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "af81a93c80bd49f882fd05029aece799",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "afa0a3d0fa2c4b868ca897707ea555b3",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "afff7f9497d1445c99a8889f659255a6",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "b00fb86b996f43488f2bb599f5d7f0c3",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "b02221bb94214fa9b7e49b51f09da0c2",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "b0d740680a0e42fda7e3751b1b284df7",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b0f5099db06245e0b0a99ed99ef2bb65",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "b1bbb81612a54b72900ec9666644a7c2",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b1d76ad04e86447ca1cc189bcfb0347f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "b1e21459cb7d471b9adc575bdfcc3e9a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b22604e61f4c4cdd91c83d77d30bcde3",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "b26fc7ac92bc4db48b78875496bf28f9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "b270a5f987bb4e83a902ed83b631d0ab",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "b282b50e9f2040fdb8f6b1b381cfbb7a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "b2af1c7a702a4a2f95d534a58d933a76",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "b2cb2e1ef20045c3a5dd9a7c050425c9",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "b313edcf28fd4eb78f001e3a39b51b9c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "b3f1135b4ae34e61a6f361c1c06f0d22",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "b40c5cc7d981420492d87c30d15fa2c9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "b46cf1ca4b1f4a67b03071d520d464ff",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -640.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "b50ddecdb3ae4045b4416f2d1943f274",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "b511317b85cf4e19930672bcde5cf0bb",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "b5ccde185fe34ff787bcf798a2305419",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "b6297bea1664432a95a1cbbda0c9d9ae",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -672.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b70db103820a46f59bd4559c89474c0a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b816550420d0450aa9035f44fd3e2c0f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "b8fa42e0a8354851b05e72c4f1e51749",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "b916a4fba4944c14b1ccf38c209d5a78",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "b94d05aa20ee496aa7a9ee0b2bf082f1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b982289ce3e443ec8aab75bdab5102b3",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "b9ec36d2d7dd46c7b68bdae7b5090cb0",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "ba03ad500a9f4e408836b9c253996a8a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "ba548936dfb54d13a35a461bbf2b8ae8",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ba5cc24801744b3fb131a37d37bb13c8",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ba885aae444340358f04c82e42c7cfd8",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "ba9fecaba542491bb9a607e360ce4732",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "bb3c697371784e22a924b43f8b4d0acf",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "bb54dd9c51c249c5b51c4b6e6a7e5aba",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "bb93e2748b3d41dfa6ae394e6830ea63",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "bc4831e4550e49d4a5f842fa7325f743",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "bca48477c86545af96ce655cc0c8491b",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "bcfa950603224c33bc5ab8559301bb12",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "bd00b06979dd48c4a7d860cf6fb860d9",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "bd0d814248584fdcbb4de0a584c94258",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "bd4e47839432494896b589122848424b",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "bd504b20e53643a0830565f1b3704bab",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "bd713c7b35dc49fcbe169634c201cc1b",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "bf039da99ae7473eb1257fc2a48ec696",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "bf3369434c3440c5b726fd23676291ef",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -288.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "bf7785b07e4e4770a38ee297ecea3c92",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c03bcb46cd444a788e37d7d2762f8d6c",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c04429558fa34448b1390890b2f8a728",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -224.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c0b6bf8b63734c29bc7da34343424aba",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c20e915f6cec44fd80b116c75d3efc9f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "c24cb9a02b624d4cb8fb13432ded377b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c276de48c3f948d9b588294754826124",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c2c2f77f3d6b4648b0cee1f23cb60d51",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c361d655a6f04e6d82a76d579ad92726",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "c3882d7d41144b0e8b2b28e1d62f84b2",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -192.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c3a579f99e0a493bb544f9775da30811",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "c3bb62716d0f46ba8e4fe68c98b1b08e",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c3dbad42a6514824a94d43e676e0922a",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c43c31c9475b4d9e9acdd250c77ba035",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c456036e76b14e259d1ce8a57d5a6582",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c46394436d454e8cb02951337f073021",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c480dd5650334f7a9e3521da9b484a25",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "c4e543934853464c830d72d8645fed1a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c54f9f9079f4496c8d4ae722aa0cb244",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c5aff1a056f6447ea89d611d08372625",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c5f686b142744b48854deb6bfbfd0eff",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "c5f887a20f0245849df2149aab3a7ee5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "c7056516272d49139c1a4c760d3ec0c5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c75e9ada42e344078e5c1924a3c1ab70",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c84cf45abc534102a24be5d5f4ec2d3c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "c8875e4c4a044b8aaddb32a6b69c50f0",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "c8d2467b976745ceb93225824c608295",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "c9662ebecb1743e1a0d1853c7c8061d6",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "c98a0d2eba51449dad34679b2c99911e",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "c9a370e3f6dc4ed59ff1c4559b807e3f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "c9de43085ef94087bed6d519cfa8a032",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "c9e94ef342a744deaea818faded25c5e",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "c9f6289941514f90b9d470c52badd1eb",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ca298dbc731f48b7afeb8f57e3a00ccf",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ca2fd96514cf42719d7c024e4553839b",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ca9727c3a1b04bd19c97e3be451836f9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -320.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ca99f9297b7348e4a0fb34f22d650503",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "cabfda0350a6460384225ee74d8b24d3",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "cb202e435065456887d33a11610ed6f8",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "cb2ee999974040bf984d0ff5d51d2302",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "cb47640c479e41cea710b4026ae14b7b",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cbcdc4047f924b6f926887b00beca40a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "cc46c80aa8cb49dd9b73f87de58f2e9d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cc73875924d1497dbfd92ec4929b0380",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cca8d8c8cf124df188a576040b65d68a",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "cd028d1fcc4b4a0593b31555ab801387",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cd333899c7314d3ebf6ed959322e2430",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "cdb50420923f45a7bdca1bded602eb5e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "cdc4dc3c966e45efae070fa5a89d030c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ce885408c5704b049db34b645f15a2f5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ce9461e7b5e94b1aa90856d66abbd365",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -320.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "cedd425e2b284755908c5f7e06d18811",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "cf1566093a87423a8e33ebe87263446e",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cf6934ab315540b79d8266aa3d03a377",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "cf91c70e31c14f5bafab6d8efe3beec5",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "cfacea7e283e44f3a9839c86f44d0565",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "d1cade2a7aad40c396a9a7cb5fb72564",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d1d3d808295948c69ee6430a702fde3e",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -608.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d1d7873991b64547a55e39251e216329",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d1e81c49c5ff4c9c9a39792e7a03e030",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "d205057ad8f04e229096272e08da3480",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d20a9901e8d04caea74867ec0309cc2c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -512.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d248a51f29374f08a6c6a16f4689c90d",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d2c6602a89ec46a38610ea8886ef45a9",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d472b5a7575c4328b2903f2bb39f54ea",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d4a4ea69dd324e2da0866b84b42f8376",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d4aa393774e7438b8fa59aaba1421e8b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "d4ad32165ce548bca5687414fbf92975",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d4b06c75790a4d1a9254984512f80268",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "d4bf187f2bae4b00be5eb45b7cae837d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -128.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "d53bbcbfdb7c4375bbb5fc31f1a4c784",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d53f090e76564c6fb4ae0b1ff17976b1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "d5e32b4af3034d97bfb6742c5033e7d9",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d5f0330b1ccb49eca9d277a72a8a78ba",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d6491aa7b91d468c89795416a9a3ea1c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d6a52acd9b1f4a9d8b9cf0297ea2e191",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "d6d105d3b0084551afa13d0011252d58",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "d72023ada85d40a8b6f6987c0bc06c61",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "d74b3068baca491990e70d571d3712e2",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "d79ccea9968e4b5ea56d8c32ec6212a4",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "d886ba8cf76d4301b29f783f002a7e34",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d892911108b2475e85324c29a890b920",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d89fcec1b78b4f86895335264851df72",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d8e627ae7ab84f51aafb16589c3cda3c",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "d9003bf0c0b046a7920851bf174614cb",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "d91353b7250b49df8634c72c799e0e4f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d95ca665fea342c79fcb53a259db1aaf",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "d9a4a414e33b454ab52a1003a0f08f8f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "d9b87e1a5c9d43f09fd92a7d3a750d91",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "da3dfd1e0a5a42799647132b3529922f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "da95f36c707f48ef837d9de547e63eb2",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -384.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "dab22618b74a4f68bbb67034134a5250",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "dacf297fea7245949accbe149231a594",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "daf830d552ad406e8beeb6996ce0605d",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -640.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "db3ab8bafa5a4248adad2f45d6aabbe6",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "db9f721fb8a640bebd8fd4eef82553e2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "dbba4d53e1ab4a1c8970619dd72c0383",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "dbdd411372e946559082695d63d4eebb",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -416.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "dc2c39c3990c4769b56cefff2872c0f9",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "dc7d351221e340048c9ba697dbed2c5a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "dc9287851904460c89ef6670fabdca67",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ddad70e655724ca58dc7f5bad64a0906",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "dde192676a80455498241619248f6fdf",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -416.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "de14c51fbb534829b8c1ab52255b5b03",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "dea5d7a86c9248168459c7413c93e8df",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "deee8e507cfb4adca352f3dfa848d292",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "df1bed1d3e5442659167bacbc9117aa6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e00c0cd5f6914390b7b120edc896693f",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e03796a852d644238f3e2def3289f9ad",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "e0828f3b82c04fafb01683de773e5ad6",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e0905822409f4c2aa3591b781fc9b8ec",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e188784419704691a0250cd80c8c1333",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "e1bf6a3c74894bb0bef812988e6b3c05",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "e20c185d634e435c9d1a1d88073d598f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e215f63531d04c3ebac37c4fe9d262a1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -288.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "e2534cb075a8405e9e90828b5038be8b",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "e2adc2ed3e2c486fb503c0bd6eb05e3f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e3b7c29068784a28a3b25552057e6a2c",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -32.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e3c64c6ff4a74dac8e78317600f4c9af",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -480.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e41d2a81655e4b7fa9549ae2f495436c",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -128.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e42557b8e7404dc497ae066262b631ac",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e431c3bcb3cc457abb884d1aaee8df88",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e485076a39c749bdaca9eb769ff53b33",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "e4a5571ee8a74305b23a04d8273d7a1c",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e583e87eb505493ab8cd00f832e6f81a",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -32.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e6174b7089ea427c8036d3fe0e374c27",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "e6b5fad2488d488680fa9049015e6f5d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -608.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e6cf1ddaaab6431b856699471f111f5c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e6d8617d9a5c401d8605d4bb42547e4f",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "e6ed94722cf64036b84d17bf9052be71",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e6f9a60c06344f6a8331efdbcf14af9a",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "e76ad1de477b49488fe10efffdb0ed4a",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -512.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "e788d373973042afa268f2d98fa9c002",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e8522770a96141c29afbadf95060b6e4",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e874aba761d24a11b0a59ee43b1a4cc4",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e8b545c719764643a1631f8786f1d6ee",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "e8f55db7e400426385db6529533fc3ff",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -160.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "e92559f57c0b474fa39547e1653cacfb",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -416.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ea48ffb04de94698b110ff6fb572b191",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ea6ed9aea1f7437cbc3ae23f4dbef03a",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -544.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ea92e2c165dd4c5b98dfda430c934ed3",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "eae3c9809133402cb1cc4e095f1772f2",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -352.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "eb48c0dbde304424bb2acb5f39524c05",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ec2c726afc21444f8051d6146ac8a50b",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "eca92e4990d146239d5973c2f212a5d1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ece8394f915947888aea2095a05d0bea",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ed118e28c6f047d388c4bdf173dcb491",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "ed4f357db90743ccb5ad946e36b1ba91",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -384.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ed7a3604e5d9485fb2b6d181ec148071",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "ee3159088feb45ff9851b5c0f9c2355d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ee8ba6114258417eaa8cefd45298f5d5",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -640.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "eedc68c446904a8590762c632c219f72",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -480.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "eeeb84422d39405d8ffcce5e1bb32ddb",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "ef00276d76df48b3aef778026ce09bc9",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "ef43dce096724e22a0ad5beac2627e35",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "ef48605651fb46398342f6e14644b4eb",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -448.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "ef48c9330cfe4d3c8cc8222ebb94ecb9",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "ef4feb3261f44af0afa62d97528a8aa3",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -32.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f0013412f27349f3a02fb1c2f9a72c9e",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -256.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f00f0b668f2b476295670e5f8e03749c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "f02bb36459eb4a18b5391849a56340fa",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -224.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f05a1f6873f34087a885cb8dac61ff8e",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f09c3039cecf4571a4599473483c37c6",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f12d0050950447cf8ff30a9f7a2b938a",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -480.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f17c723cf9c54c76a1ba2a9d754da75b",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f195be48765d4a30ad27560f13358ca1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -256.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f1d4ebcad066424d936a741e7db407bf",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -160.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f21be6c546b24c678f975e572c703035",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -480.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f22a8314db3a48a6acfafe34b82a4249",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -256.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "f262c19b6790460a97c16fd62a998e89",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -160.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f2964b7c1e4d42ff8f4024ce2e1681b1",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -192.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f2bbe6ce1c7849d0a3b1081a4aad0ed1",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -672.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f316b41ee548451babc5ac291ee9480b",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f33ff6e1dd6143eaa9c6a3e843c5a32f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -704.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f38337ec9c874887ab3711bcab26f82b",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -64.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f38de04fd4564c3b802f9943d9292692",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -672.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f3966bd6c8ea4feda7ada9a400bc587f",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f3b5ab70f440406dbfd7586ed6876be1",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f3be28343bbc49c0b03ae8ac7f455e41",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f4458edcf8674a92b3d4d94b726ef139",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -256.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f47e63e6c9fd487bbd0ff20d103dff84",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f4a69cf7c5e94d859c930c16391204b8",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -352.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f5070d959859440eb57051a8dfad0622",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f531af267c2245ff8cb633d5c913587c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -544.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f5734dc7c0d8464cb198d3ab4aa2c1ec",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -96.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f5a081ccac294d77b44b26941d4e9c6b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -288.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f5bf50fe3a9b42b3991abda4c6b8d67f",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -320.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f6b4d57397324753b4800ecab2490041",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -672.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "f7013d4e4c0e45b3a3cb0fa0c0e618bb",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -192.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f731b11405fe416b8b9dc46bfbb74926",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -224.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f7c9b7d8ea0e457ab2c070383b90ac7d",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f80c0eb0ba8949058cc0c8904e218833",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -160.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "f8152d0fd86640349c06b29212455d55",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f83507c9375b45e69f8ae8e23165f3b3",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "f83e7867244d484b986ae231170ebb7c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -608.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "f857b560f80b4e1981d6586ff42e768d",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "f86a8edbff904355adfbc721bc909629",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f90af0fc0c2a404ea92dd0937f96130c",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -320.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f951761304d44a2db1b1c4dabea41c27",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f987a0b183994a4281d50e5067b30abf",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -352.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "f9d4150f170d421d8870350279ae311b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -128.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "fa253ddfe81d4a4788d60970203ee95c",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -512.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "fa7a119f5be547c19d56356f8d6ea8f7",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -384.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "fac6fe10c06d4d0a8e936b8c3cdd6655",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -224.0,
+                    "z": -32.0
+                }
+            },
+            {
+                "id": "fbb9d12914884064be3d36ebe4e1a91d",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -96.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "fbc5013410f847dd88aa8c5598031ff5",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -576.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "fca637a2652b4cbfac2966c3447c7c7e",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -96.0,
+                    "z": -64.0
+                }
+            },
+            {
+                "id": "fcac70c72b644db684f7cbbd7a4a0461",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -64.0,
+                    "z": 32.0
+                }
+            },
+            {
+                "id": "fcf2f3c319344590a0ef9367e3e4a74f",
+                "worldPosition": {
+                    "x": -64.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "fd4754d63f884155840887fdc6a556e9",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -128.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "id": "fd6a6fc948604d3683064216a6026cb4",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -576.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "fdaaf302d86e42fdab726fa133c52f7c",
+                "worldPosition": {
+                    "x": 0.0,
+                    "y": -704.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "fe0303b3cca6458f8dfeaaf49972e80f",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -416.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "fea15ab9e5dd4474bbd48b5ad3a8296c",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -608.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "ff0b348a630b48959c45ea58c8df4a5b",
+                "worldPosition": {
+                    "x": 32.0,
+                    "y": -448.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ff3a116d2d604a81bdb178ed7bfc9eb9",
+                "worldPosition": {
+                    "x": -32.0,
+                    "y": -544.0,
+                    "z": 64.0
+                }
+            },
+            {
+                "id": "ffb670fbcde643a2809ca9d5a112cf26",
+                "worldPosition": {
+                    "x": -96.0,
+                    "y": -192.0,
+                    "z": -96.0
+                }
+            },
+            {
+                "id": "ffdbbe0228c44d39a849efc51c29c7ef",
+                "worldPosition": {
+                    "x": 64.0,
+                    "y": -512.0,
+                    "z": 0.0
+                }
+            }
+        ],
+        "biomes": [
+            {
+                "id": "2ac2e0992bf943f5a8e907ef0eed4dc1",
+                "startDepth": 0.0,
+                "endDepth": -200.0,
+                "mainPathRadius": 3.0,
+                "bigRoomBaseMin": 1.0,
+                "bigRoomBaseMax": 2.0,
+                "branchThreshold": 0.8199999928474426,
+                "o2StationChance": 0.10000000149011612,
+                "ruleIds": [
+                    "9153dd20bda84157a7525ac4a3b1b37a",
+                    "f3cd5653ee0547efa64121f4fc16eeb1",
+                    "358e7fef254546d38965c34f07ad4bbc"
+                ]
+            },
+            {
+                "id": "43e505a113d14d1a96373ac94aab61c8",
+                "startDepth": -200.0,
+                "endDepth": -800.0,
+                "mainPathRadius": 12.0,
+                "bigRoomBaseMin": 10.0,
+                "bigRoomBaseMax": 55.0,
+                "branchThreshold": 0.8199999928474426,
+                "o2StationChance": 0.25,
+                "ruleIds": [
+                    "9153dd20bda84157a7525ac4a3b1b37a",
+                    "abd1eb664458497e99b449b6646099a4",
+                    "21941d01453843578c439f9af4a20649",
+                    "f5c5d79d3d22435caacb80d19964083a",
+                    "155f1e2f7623449d9120550ebbc7cbd6"
+                ]
+            }
+        ],
+        "rules": [
+            {
+                "id": "155f1e2f7623449d9120550ebbc7cbd6",
+                "prefabIds": [
+                    "5d8e3802261b4fdab194648e4b765dd8",
+                    "4eb36009c70742b58f065ef2118218f2",
+                    "98743415732b494190c7550c079861bf"
+                ],
+                "placementType": 2,
+                "baseChance": 0.009999999776482582,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 1.0,
+                "maxScale": 1.0,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 1
+            },
+            {
+                "id": "21941d01453843578c439f9af4a20649",
+                "prefabIds": [
+                    "2787859e7f91432dadf1928e5fdc906f",
+                    "0a253ac6434b4748b20c5a1be4a757a0",
+                    "2ca6dcbfe2604e458e994e5f631fc2f7"
+                ],
+                "placementType": 0,
+                "baseChance": 0.012500000186264515,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": true,
+                "randomRotationVariation": 360.0,
+                "minScale": 0.800000011920929,
+                "maxScale": 2.5,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 5
+            },
+            {
+                "id": "358e7fef254546d38965c34f07ad4bbc",
+                "prefabIds": [
+                    "5d8e3802261b4fdab194648e4b765dd8",
+                    "4eb36009c70742b58f065ef2118218f2"
+                ],
+                "placementType": 2,
+                "baseChance": 0.004999999888241291,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 1.0,
+                "maxScale": 1.0,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 1
+            },
+            {
+                "id": "9153dd20bda84157a7525ac4a3b1b37a",
+                "prefabIds": [
+                    "6588d98c4a7d419cabfff697618db1d6"
+                ],
+                "placementType": 0,
+                "baseChance": 0.004000000189989805,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 0.800000011920929,
+                "maxScale": 1.2000000476837159,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 5
+            },
+            {
+                "id": "abd1eb664458497e99b449b6646099a4",
+                "prefabIds": [
+                    "5c59095900b543398a7c472cc37527e4"
+                ],
+                "placementType": 0,
+                "baseChance": 0.0005000000237487257,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 0.800000011920929,
+                "maxScale": 1.2000000476837159,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 5
+            },
+            {
+                "id": "f3cd5653ee0547efa64121f4fc16eeb1",
+                "prefabIds": [
+                    "e4c1084605e547629f5599a4e816d036"
+                ],
+                "placementType": 2,
+                "baseChance": 0.0010000000474974514,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 1.0,
+                "maxScale": 1.2000000476837159,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 1
+            },
+            {
+                "id": "f5c5d79d3d22435caacb80d19964083a",
+                "prefabIds": [
+                    "e4c1084605e547629f5599a4e816d036"
+                ],
+                "placementType": 2,
+                "baseChance": 0.0020000000949949028,
+                "minCenterDistRatio": 0.0,
+                "maxCenterDistRatio": 1.0,
+                "minDepthRatio": 0.0,
+                "maxDepthRatio": 1.0,
+                "alignToNormal": true,
+                "isCluster": false,
+                "randomRotationVariation": 360.0,
+                "minScale": 1.0,
+                "maxScale": 1.2000000476837159,
+                "clusterRadius": 2.0,
+                "minClusterSize": 1,
+                "maxClusterSize": 1
+            }
+        ]
+    }
+}

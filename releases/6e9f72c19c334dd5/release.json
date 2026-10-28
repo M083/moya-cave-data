@@ -1,0 +1,12 @@
+{
+  "releaseId": "6e9f72c19c334dd5",
+  "configHash": "8e9706d3a5917e7640ccc63734d66f981dd514cfcfd481e706539f0c45958444",
+  "configSha256": "4e091eee0f9aeebc2d1cd6865c0f6a14ea0ca43aa050e637142286b1567d65b9",
+  "generatorFingerprint": "1faa85326a1d741f1fab6520b90bf82c914c587d4fb11ec2c6fb62acabae3bf7",
+  "files": [
+    "core.mjs",
+    "placements.mjs",
+    "package.mjs",
+    "marching-table.json"
+  ]
+}
