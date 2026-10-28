@@ -2,7 +2,7 @@ import {readFileSync,writeFileSync,mkdirSync,existsSync} from 'node:fs';
 import {resolve,dirname,join} from 'node:path';
 import {fileURLToPath,pathToFileURL} from 'node:url';
 import {createHash} from 'node:crypto';
-import {todayJst,addDays,slotPath,dayNumber} from './calendar.mjs';
+import {todayUtc,addDays,slotPath,dayNumber} from './calendar.mjs';
 const hash=b=>createHash('sha256').update(b).digest('hex');
 const root=dirname(fileURLToPath(import.meta.url));
 const args=process.argv.slice(2),opts={};
@@ -10,13 +10,13 @@ for(let i=0;i<args.length;i+=2) {
   if(!['--date','--out','--past','--ahead'].includes(args[i])||args[i+1]===undefined||opts[args[i]]!==undefined) throw new Error('Invalid options');
   opts[args[i]]=args[i+1];
 }
-const date=opts['--date']??todayJst(),past=Number(opts['--past']??2),ahead=Number(opts['--ahead']??7);
+const date=opts['--date']??todayUtc(),past=Number(opts['--past']??2),ahead=Number(opts['--ahead']??7);
 dayNumber(date);
 if(!Number.isInteger(past)||!Number.isInteger(ahead)||past<0||ahead<0||past+ahead>=32) throw new Error('Window must fit within 32 slots');
 const out=resolve(opts['--out']??join(root,'site'));
 const releases=JSON.parse(readFileSync(join(root,'releases.json'),'utf8'));
 if(!Array.isArray(releases)||!releases.length||new Set(releases).size!==releases.length) throw new Error('Invalid release list');
-const manifest={formatVersion:1,dateJst:date,slotCount:32,packages:[]};
+const manifest={formatVersion:1,dateUtc:date,dateBasis:'UTC',slotCount:32,packages:[]};
 let totalBytes=0;
 for(const id of releases) {
   if(!/^[0-9a-f]{16}$/.test(id)) throw new Error('Invalid release ID');
@@ -47,5 +47,5 @@ for(const id of releases) {
 }
 writeFileSync(join(out,'manifest.json'),JSON.stringify(manifest,null,2)+'\n');
 writeFileSync(join(out,'.nojekyll'),'');
-writeFileSync(join(out,'index.html'),`<!doctype html><meta charset="utf-8"><title>Daily cave data</title><h1>Daily cave data</h1><p>Prepared for ${date} JST. ${manifest.packages.length} packages.</p><p><a href="manifest.json">Package manifest</a></p>`);
+writeFileSync(join(out,'index.html'),`<!doctype html><meta charset="utf-8"><title>Daily cave data</title><h1>Daily cave data</h1><p>Prepared for ${date} UTC. ${manifest.packages.length} packages.</p><p><a href="manifest.json">Package manifest</a></p>`);
 console.log(JSON.stringify({site:out,packages:manifest.packages.length,totalBytes}));
